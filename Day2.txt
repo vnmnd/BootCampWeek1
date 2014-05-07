@@ -1,0 +1,10 @@
+
+Why BDD matters
+  Keep the whole project on track
+    Scrum
+      Iterative cycles
+  Dev on track
+    Focused/avoid "cool" features
+    Perspective of Stakeholder
+  Maintaining set of use cases/avoid regression
+  Time savings vs. Manual
